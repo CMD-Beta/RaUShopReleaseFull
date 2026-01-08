@@ -1,0 +1,5 @@
+[
+  { "id":1, "title":"400 Robux", "desc":"Быстрое зачисление", "priceAZN":6, "image":"https://via.placeholder.com/300x200?text=400+Robux" },
+  { "id":2, "title":"800 Robux", "desc":"Безопасная сделка", "priceAZN":12, "image":"https://via.placeholder.com/300x200?text=800+Robux" },
+  { "id":3, "title":"1700 Robux", "desc":"Максимальная выгода", "priceAZN":22, "image":"https://via.placeholder.com/300x200?text=1700+Robux" }
+]
